@@ -6,8 +6,8 @@
 
 # - 🔭 I’m SRI RAHUL V C
 # - 👯 I am studying 3rd B.Tech Smart Manufacturing in Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram.
- -  I have a good knowledge on 
-#- C
+# -  I have a good knowledge on 
+ - C
  - C++
  - Python
  - IOT
